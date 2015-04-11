@@ -1,1 +1,1 @@
-# Brick-Breaker-Pong
+# EC327 Project
